@@ -1,0 +1,52 @@
+#rectangle {
+    width: 800px;
+    height: 110px;
+    background: rgb(0, 0, 255);
+    background: linear-gradient(90deg,
+        rgba(128, 255, 0, 1) 14%,
+        rgba(198, 255, 0, 1) 19%,
+        rgba(255, 255, 0, 1) 35%,
+        rgba(236, 161, 10, 1) 47%,
+        rgba(246, 118, 63, 1) 53%,
+        rgba(230, 107, 80, 1) 66%,
+        rgba(255, 0, 0, 1) 78%,
+        rgba(213, 5, 5, 1) 86%,
+        rgba(195, 7, 7, 1) 90%);
+    margin-left: 150px;
+  }
+  
+  #accessible-rectangle {
+    width: 800px;
+    height: 110px;
+    margin-left: 150px;
+    border-style: solid;
+    background: rgb(255, 255, 255);
+    background: linear-gradient(90deg,
+        rgba(255, 255, 255, 1) 7%,
+        rgba(192, 192, 198, 1) 16%,
+        rgba(157, 154, 170, 1) 35%,
+        rgba(113, 106, 124, 1) 47%,
+        rgba(87, 81, 92, 1) 53%,
+        rgba(49,46,50,1) 68%,
+        rgba(41,39,41,1) 81%,
+        rgba(23,18,23,1) 87%,
+        rgba(0,0,0,1) 94%);
+  }
+  
+  #scale {
+    font-family: serif;
+  }
+  
+  #heading {
+    margin-left: 150px;
+    width: 800px;
+    text-align: center;
+  }
+  
+  #firstline {
+    margin-left: 83px;
+    width: 934px;
+    word-spacing: 133px;
+    text-align: center;
+  }
+  
